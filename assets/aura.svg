@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="title desc">
+  <title id="title">AURA ATLAS</title><desc id="desc">Графическая обложка неофициального фан-атласа: ботаническая сетка и условный полевой сканер.</desc>
+  <rect width="560" height="220" fill="#dce3d6"/>
+  <g fill="none" stroke="#8eaa8e" stroke-width="1">
+    <path d="M345 0V220M390 0V220M435 0V220M480 0V220M525 0V220M330 20H560M330 65H560M330 110H560M330 155H560M330 200H560"/>
+    <circle cx="451" cy="110" r="76"/><circle cx="451" cy="110" r="52"/>
+  </g>
+  <g fill="none" stroke="#294c40" stroke-width="2">
+    <path d="M411 73V56H429M491 73V56H473M411 147V164H429M491 147V164H473"/>
+    <ellipse cx="451" cy="110" rx="21" ry="32" transform="rotate(28 451 110)"/>
+    <path d="M435 139L467 81"/>
+  </g>
+  <text x="28" y="36" fill="#486353" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">03 / UNOFFICIAL FAN ATLAS</text>
+  <text x="25" y="127" fill="#294c40" font-family="Georgia, serif" font-size="48" letter-spacing="-1.5">AURA ATLAS</text>
+  <text x="28" y="182" fill="#486353" font-family="Arial, sans-serif" font-size="16">Pokémon / полевой атлас</text>
+</svg>

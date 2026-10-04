@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="title desc">
+  <title id="title">ШУМ / RISO RIOT</title><desc id="desc">Графическая обложка печатного клуба: сдвинутые жёлтые, розовые и синие печатные слои.</desc>
+  <rect width="560" height="220" fill="#ece5d4"/>
+  <g transform="translate(450 111) rotate(13)">
+    <rect x="-64" y="-78" width="122" height="156" fill="#f2ef39"/>
+    <circle cx="0" cy="-13" r="45" fill="#e24193"/>
+    <path d="M-56 20H48V60H-56Z" fill="#345db1"/>
+    <path d="M-41-58L48 58M-53-44L36 70" fill="none" stroke="#20201e" stroke-width="4"/>
+  </g>
+  <text x="28" y="36" fill="#655e55" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">02 / PRINT PLAYGROUND</text>
+  <text x="25" y="125" fill="#20201e" font-family="Arial, sans-serif" font-size="57" font-weight="700" letter-spacing="-3">RISO RIOT</text>
+  <text x="28" y="182" fill="#655e55" font-family="Arial, sans-serif" font-size="16">ШУМ / лаборатория постеров</text>
+</svg>
