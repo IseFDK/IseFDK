@@ -1,5 +1,5 @@
 <a href="https://isefdk.github.io/">
-  <img src="./assets/masthead.svg" width="1200" alt="IseFDK — Мансур Альбеков. Веб-интерфейсы и приложения" />
+  <img src="./assets/masthead.svg" width="1200" alt="IseFDK. Веб-интерфейсы и приложения" />
 </a>
 
 Создаю веб-интерфейсы и приложения на **TypeScript, React / Next.js и Node.js**. Здесь — fullstack-проекты, интерактивные инструменты и веб-эксперименты с 3D.

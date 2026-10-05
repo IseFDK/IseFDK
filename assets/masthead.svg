@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-  <title id="title">IseFDK — Мансур Альбеков</title>
+  <title id="title">IseFDK</title>
   <desc id="desc">Редакционная обложка в цветах тёплой бумаги, чернил и бордо. Веб-интерфейсы и приложения.</desc>
   <rect width="1200" height="400" fill="#f1eee7"/>
   <path d="M48 61H1152M48 348H1152" stroke="#c9c3b9"/>
   <g fill="#655e55" font-family="Arial, sans-serif" font-size="15" letter-spacing="2.2">
     <text x="48" y="39">ВЕБ-ИНТЕРФЕЙСЫ И ПРИЛОЖЕНИЯ</text>
-    <text x="1152" y="39" text-anchor="end">ISEFDK / SELECTED WORK</text>
+    <text x="1152" y="39" text-anchor="end">IseFDK / SELECTED WORK</text>
   </g>
   <text x="43" y="256" fill="#20201e" font-family="Georgia, 'Times New Roman', serif" font-size="196" letter-spacing="-9">IseFDK<tspan fill="#812b42">.</tspan></text>
-  <text x="52" y="310" fill="#20201e" font-family="Arial, sans-serif" font-size="30">Мансур Альбеков</text>
+  <text x="52" y="310" fill="#20201e" font-family="Arial, sans-serif" font-size="30">Веб-интерфейсы и приложения</text>
   <g transform="translate(1044 200)" fill="none" stroke="#812b42">
     <circle r="76" stroke-width="1.5"/>
     <circle r="51" stroke-width="1"/>
