@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Последний сигнал</title>
+  <desc id="desc">Редакционная обложка рассказа: ночной поезд, горная обсерватория и три коротких сигнала с одним длинным.</desc>
+  <rect width="1200" height="350" fill="#0f2534"/>
+  <g fill="#899caa">
+    <circle cx="845" cy="54" r="1.5"/><circle cx="1055" cy="38" r="1"/><circle cx="1170" cy="118" r="1.5"/><circle cx="917" cy="87" r="1"/><circle cx="789" cy="138" r="1"/>
+  </g>
+  <circle cx="1046" cy="111" r="53" fill="none" stroke="#b7c9bc" stroke-width="1.2"/>
+  <circle cx="1046" cy="111" r="36" fill="none" stroke="#49616c"/>
+  <path d="M1006 111H1020M1030 111H1044M1054 111H1068M1078 111H1106" fill="none" stroke="#d6b877" stroke-width="4"/>
+  <path d="M751 280L824 214L863 247L934 175L979 225L1041 199L1132 274L1200 238V350H751Z" fill="#263f4b"/>
+  <path d="M816 221L824 214L837 225M920 191L934 175L952 199" fill="none" stroke="#82929a" stroke-width="1.2"/>
+  <path d="M897 279V253A35 35 0 0 1 967 253V279Z" fill="#162b39" stroke="#93a49f"/>
+  <path d="M932 219V246M922 278V262H939V278" fill="none" stroke="#93a49f"/>
+  <path d="M752 319C878 286 979 300 1200 314M752 328C878 295 979 309 1200 323" fill="none" stroke="#6c8087" stroke-width="1.5"/>
+  <g transform="translate(995 275)">
+    <path d="M0 8H98L111 23V39H0Z" fill="#263f4b" stroke="#aebbb4"/>
+    <path d="M12 16H25V27H12ZM34 16H47V27H34ZM56 16H69V27H56ZM80 16H93V27H80Z" fill="#d6b877"/>
+    <circle cx="20" cy="41" r="7" fill="#0f2534" stroke="#aebbb4"/><circle cx="86" cy="41" r="7" fill="#0f2534" stroke="#aebbb4"/>
+  </g>
+  <text x="42" y="46" fill="#b7c9bc" font-family="Arial, sans-serif" font-size="15" letter-spacing="2.5">LAST SIGNAL / SCROLL STORY</text>
+  <text x="38" y="171" fill="#f1eee7" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="-2">Последний сигнал</text>
+  <text x="43" y="218" fill="#c5ceca" font-family="Arial, sans-serif" font-size="23">Ночной поезд. Семь глав. Рассвет.</text>
+  <path d="M43 281H704" fill="none" stroke="#526a72"/>
+  <g fill="#d6b877"><circle cx="43" cy="281" r="4"/><circle cx="153" cy="281" r="3"/><circle cx="263" cy="281" r="3"/><circle cx="373" cy="281" r="3"/><circle cx="483" cy="281" r="3"/><circle cx="593" cy="281" r="3"/><circle cx="704" cy="281" r="4"/></g>
+  <text x="43" y="321" fill="#b7c9bc" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">00:07</text>
+  <text x="704" y="321" text-anchor="end" fill="#b7c9bc" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">06:03</text>
+</svg>
